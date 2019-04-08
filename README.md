@@ -68,7 +68,7 @@ Portfolio data analytics projects completed by Zahier Nasrudin using R-Studio an
 ---
 
 
-
+If you liked what you saw, would like to talk with me about work opportunities, or collaboration, please email me at zahiernasrudin@gmail.com
 
 
 
