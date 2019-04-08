@@ -24,7 +24,7 @@ Portfolio projects completed by Zahier Nasrudin. Click on the projects to see fu
 ---
 
 
-###  [Stock Market Time Series Analysis](https://github.com/mhdzahier/Data-Portfolio/blob/master/Stock%20Market%20Time%20series%20analysis%20using%20R-Studio.pdf)
+###  [Stock Market Time Series Analysis](https://drive.google.com/file/d/1M1St9143fCl6RSxopb2lHu3M0GkuxHkZ/view?usp=sharing)
 * Time Series Plots of AAL,ADS, M0 and PWR stock market prices.
 * **Keywords**(R-Studio)
 
