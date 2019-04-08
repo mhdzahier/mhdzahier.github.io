@@ -1,5 +1,5 @@
 # Data-Portfolio
-Portfolio projects completed by Zahier Nasrudin using R-Studio and Python. Click on the projects to see full analysis and code. 
+Portfolio data analytics projects completed by Zahier Nasrudin using R-Studio and Python. Click on the projects to see full analysis and code. 
 
  
 ## Projects (R-Studio):
