@@ -27,7 +27,7 @@ Portfolio projects completed by Zahier Nasrudin. Click on the projects to see fu
 * Perform simulation of coefficients
 * Calculate the predictive probabilities of 1000 simulations
 * **R-Studio**
-<img src="pictures/stock market1.png" width="500">
+<img src="pictures/bootstrap.png" width="500">
  
  
 ---
