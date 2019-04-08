@@ -4,7 +4,7 @@ Portfolio projects completed by Zahier Nasrudin. Click on the projects to see fu
  
 ## Projects:
  
-###  [Wisconsin Breast Cancer Prediction](https://github.com/mhdzahier/Data-Portfolio/blob/master/Wiconsin%20Breast%20Cancer%20Prediction.md)
+###  [Wisconsin Breast Cancer Prediction](https://htmlpreview.github.io/?https://github.com/mhdzahier/Wisconsin-Breast-Cancer-Prediction/blob/master/Wisconsin%20Breast%20Cancer%20Analysis.html)
 * Prediction using 6 Machine Learning Algorithms
 * **Keywords**(Rstudio, Machine Learning, Wisconsin Breast Cancer)
 
