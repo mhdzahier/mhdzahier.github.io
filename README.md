@@ -52,7 +52,7 @@ Portfolio projects completed by Zahier Nasrudin. Click on the projects to see fu
 * Perform Exploratory Data Analysis on Student Performance Dataset
 * **Keywords**(Python, EDA)
 
-<img src="pictures/bootstrap.png" width="500">
+<img src="pictures/Correlations.png" width="500">
  
  
 ---
