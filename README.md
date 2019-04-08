@@ -48,6 +48,16 @@ Portfolio projects completed by Zahier Nasrudin using R-Studio and Python. Click
 
 ## Projects (Python):
 
+
+###  [Text Classification using Machine Learning Algorithms](https://github.com/mhdzahier/mhdzahier.github.io/blob/master/Exploratory%20Data%20Analysis%20(Student%20Performance%20Dataset).ipynb)
+* Implement Logistic Regression and Naive Bayes
+* **Keywords**(Python, Text classification, Machine Learning)
+
+<img src="pictures/Correlations.png" width="500">
+ 
+ 
+---
+
 ###  [Exploratory Data Analysis](https://github.com/mhdzahier/mhdzahier.github.io/blob/master/Exploratory%20Data%20Analysis%20(Student%20Performance%20Dataset).ipynb)
 * Perform Exploratory Data Analysis on Student Performance Dataset
 * **Keywords**(Python, EDA)
