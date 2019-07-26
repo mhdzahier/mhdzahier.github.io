@@ -4,6 +4,15 @@ Portfolio data analytics projects completed by Zahier Nasrudin using R-Studio an
  
 ## Projects (R-Studio):
 
+###  [Analysis of temperature in Kuala Lumpur](https://github.com/mhdzahier/mhdzahier.github.io/blob/master/Employment%20and%20Unemployment%20in%20Malaysia.html)
+* 6/7/2019 to 14/7/2019
+* Multiple Regression
+* **Keywords**(Rstudio, Linear Regression)
+
+<img src="pictures/kuala lumpur.jpg" width="500">
+ 
+---
+
 
 ###  [Data Visualization (Employment and Unemployment Rate in Malaysia)](https://mhdzahier.github.io/Employment%20and%20Unemployment%20in%20Malaysia.html#employment)
 * Employment (1982 to 2017)
