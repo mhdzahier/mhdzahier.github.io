@@ -4,8 +4,7 @@ Portfolio data analytics projects completed by Zahier Nasrudin using R-Studio an
  
 ## Projects (R-Studio):
 
-###  [Analysis of temperature in Kuala Lumpur]
-(https://github.com/mhdzahier/mhdzahier.github.io/Temperature%20analysis.html)
+###  [Analysis of temperature in Kuala Lumpur](https://github.com/mhdzahier/mhdzahier.github.io/blob/master/Temperature%20analysis.html)
 * 6/7/2019 to 14/7/2019
 * Multiple Regression
 * **Keywords**(Rstudio, Linear Regression)
